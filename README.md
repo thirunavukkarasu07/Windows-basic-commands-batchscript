@@ -71,7 +71,11 @@ Copy the file hello.txt into the file hello1.txt
 
 Remove the file hello1.txt
 
+
+
 ![Screenshot 2025-05-28 172901](https://github.com/user-attachments/assets/840fe17c-1838-4420-8516-f60e7017ec94)
+
+
 
 
 ## COMMAND AND OUTPUT
@@ -82,14 +86,25 @@ List out the file hello1.txt in the current directory
 
 List out all the associated file extensions 
 
+
+
 ![Screenshot 2025-05-28 172901](https://github.com/user-attachments/assets/850bebb3-ec48-408c-a793-406e54ac07a6)
+
+
+
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
 
+
+
+
 ![Screenshot 2025-05-28 173131](https://github.com/user-attachments/assets/313bd046-0dc4-4dbd-8ec0-efa6789e193e)
+
+
+
 
 ## COMMAND AND OUTPUT
 
@@ -102,10 +117,21 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+
+
+
+
+
 ![Screenshot 2025-05-28 173244](https://github.com/user-attachments/assets/c35778d0-1771-4aca-bdfc-da3ff33b93ab)
 
 
+
+
+
 ![Screenshot 2025-05-28 173613](https://github.com/user-attachments/assets/7b233be7-c67c-40f9-aff9-1dca3db99b73)
+
+
+
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -120,7 +146,12 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+
+
 ![Screenshot 2025-05-28 173822](https://github.com/user-attachments/assets/2573c6ec-5c2b-4942-99f0-49db7af0c1e6)
+
+
+
 
 
 ![Screenshot 2025-05-28 173858](https://github.com/user-attachments/assets/98e23462-5e58-41dd-a4b0-1e8399facb15)
@@ -133,7 +164,11 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 ## OUTPUT
 
 
+
+
 ![Screenshot 2025-05-28 174118](https://github.com/user-attachments/assets/4a7b2830-33e2-49fd-83f8-19e87489331c)
+
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -146,7 +181,17 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+
+
+
+
+
 ![Screenshot 2025-05-28 174306](https://github.com/user-attachments/assets/d9ef730f-0969-447b-bb2a-eee25cb9bc12)
+
+
+
+
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -157,7 +202,11 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+
+
 ![Screenshot 2025-05-28 174610](https://github.com/user-attachments/assets/7e5292b8-5deb-423d-b538-bbf7c23e7a74)
+
+
 
 
 # RESULT:
